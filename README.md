@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Purpose
-The purpose of this analysis was to create a cyptocurrency investment portfolio using unsupervised machine learning. The data included different currencies with their corresponding features such as coin supply, total coins mined, proof type etc. The dimensionality of the features were reduced to 3 using Principal Component Analysis and then the K means algorithm was used to group the currencies into four categories.  
+The purpose of this analysis was to create a cryptocurrency investment portfolio using unsupervised machine learning. The data included different currencies with their corresponding features such as coin supply, total coins mined, proof type etc. The dimensionality of the features were reduced to 3 using Principal Component Analysis and then the K means algorithm was used to group the currencies into four categories.  
 The machine learning library used here is sklearn.
 
 ## Analysis
